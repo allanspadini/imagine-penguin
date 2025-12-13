@@ -1,9 +1,5 @@
 # 🐧 Imagine Penguin
 
-<p align="center">
-  <img src="icon.png" alt="Imagine Penguin Icon" width="200"/>
-</p>
-
 **Imagine Penguin** is a powerful and intuitive image editing application built with Python and CustomTkinter. It combines classic image processing tools with advanced AI capabilities to help you create, edit, and analyze images with ease.
 
 ## ✨ Features
