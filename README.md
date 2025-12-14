@@ -25,6 +25,13 @@
 
 ### Installation
 
+.deb package:
+
+https://drive.google.com/file/d/1juvoh9dLPGgufGQ2y-4LTs304idsbKr-/view?usp=sharing
+```bash
+sudo dpkg -i imagine-penguin_1.0.1_amd64.deb
+```
+Or from source:
 ```bash
 # Clone the repository
 git clone https://github.com/allanspadini/imagine-penguin.git
